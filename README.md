@@ -10,7 +10,7 @@
 
 **An Intelligent AI-Powered Interview Platform — Parse Resume, Generate Questions, Evaluate in Real-time.**
 
-[Demo](#) · [Report Bug](#) · [Request Feature](#)
+
 
 </div>
 
